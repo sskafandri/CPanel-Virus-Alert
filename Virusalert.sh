@@ -9,3 +9,4 @@ curl --silent -u """YOURAPIKEY"":" -d type="link" \
 'https://api.pushbullet.com/v2/pushes'
 #you must have CPanel with Clamav and Imunify installed. 
 #this is just something I made for fun when I was bored. 
+#you can also upload the file and have it sent as a link on your server / pastbin / pushbullets own hosting. 
